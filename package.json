@@ -9,7 +9,7 @@
     "server",
     "sandbox"
   ],
-  "repository": "skat2006/st-game-server",
+  "repository": "skat2006/st-gServer",
   "engines": {
     "node": ">=0.10"
   },
