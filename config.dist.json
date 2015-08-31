@@ -1,0 +1,14 @@
+{
+  "games_directory": "./examples",
+  "sanctioned_modules": [
+    "assert",
+    "buffer",
+    "events",
+    "path",
+    "querystring",
+    "string_decoder"
+  ],
+  "domain": "localhost",
+  "lobbyPort": 3000,
+  "gamePortStart": 3001
+}
